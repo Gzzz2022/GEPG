@@ -1,0 +1,4 @@
+Number of Students: 2627
+Number of logs: 269663
+Number of Exercises: 15161
+Number of Knowledge Concepts: 116
