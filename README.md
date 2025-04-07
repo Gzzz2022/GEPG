@@ -1,4 +1,4 @@
-# GEPG: Student-Question-Knowledge Graph-based Reinforcement Learning Framework for Exam Paper Generation
+# GRL-EPG: Student-Question-Knowledge Graph-based Reinforcement Learning Framework for Exam Paper Generation
 
 ## Prerequisites
 Our experimental code is implemented in Python 3.8.0 using Pytorch 2.3.0.
