@@ -1,4 +1,4 @@
-# GRL-EPG: Student-Question-Knowledge Graph-based Reinforcement Learning Framework for Exam Paper Generation
+# GRL-EPG: Generating Multi-level Equivalent Parallel Exam Papers via Heterogeneous Graph-based Reinforcement Learning
 
 ## Prerequisites
 Our experimental code is implemented in Python 3.8.0 using Pytorch 2.3.0.
